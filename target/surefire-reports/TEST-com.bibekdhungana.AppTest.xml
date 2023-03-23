@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.bibekdhungana.AppTest" time="0.034" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.bibekdhungana.AppTest" time="0.031" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="19"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
@@ -12,7 +12,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-19.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/bibekdhungana/Programming/Java/technohunk-night-batch/maven-quickstart/target/surefire/surefirebooter7630632550209927733.jar /Users/bibekdhungana/Programming/Java/technohunk-night-batch/maven-quickstart/target/surefire 2023-03-22T18-57-41_659-jvmRun1 surefire7294526849103425536tmp surefire_08936502586166625820tmp"/>
+    <property name="sun.java.command" value="/Users/bibekdhungana/Programming/Java/technohunk-night-batch/maven-quickstart/target/surefire/surefirebooter12280871130519827499.jar /Users/bibekdhungana/Programming/Java/technohunk-night-batch/maven-quickstart/target/surefire 2023-03-23T18-11-30_697-jvmRun1 surefire15846011830292833402tmp surefire_017916189273194418989tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/bibekdhungana/Programming/Java/technohunk-night-batch/maven-quickstart/target/test-classes:/Users/bibekdhungana/Programming/Java/technohunk-night-batch/maven-quickstart/target/classes:/Users/bibekdhungana/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/bibekdhungana/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/Users/bibekdhungana/.m2/repository/org/projectlombok/lombok/1.18.26/lombok-1.18.26.jar:/Users/bibekdhungana/.m2/repository/org/springframework/spring-core/5.3.21/spring-core-5.3.21.jar:/Users/bibekdhungana/.m2/repository/org/springframework/spring-jcl/5.3.21/spring-jcl-5.3.21.jar:/Users/bibekdhungana/.m2/repository/org/springframework/spring-context/5.3.21/spring-context-5.3.21.jar:/Users/bibekdhungana/.m2/repository/org/springframework/spring-aop/5.3.21/spring-aop-5.3.21.jar:/Users/bibekdhungana/.m2/repository/org/springframework/spring-beans/5.3.21/spring-beans-5.3.21.jar:/Users/bibekdhungana/.m2/repository/org/springframework/spring-expression/5.3.21/spring-expression-5.3.21.jar:"/>
@@ -29,7 +29,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/bibekdhungana/Programming/Java/technohunk-night-batch/maven-quickstart/target/surefire/surefirebooter7630632550209927733.jar"/>
+    <property name="surefire.real.class.path" value="/Users/bibekdhungana/Programming/Java/technohunk-night-batch/maven-quickstart/target/surefire/surefirebooter12280871130519827499.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="19.0.1+10-21"/>
@@ -57,5 +57,5 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="63.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="com.bibekdhungana.AppTest" time="0.004"/>
+  <testcase name="shouldAnswerWithTrue" classname="com.bibekdhungana.AppTest" time="0.003"/>
 </testsuite>
