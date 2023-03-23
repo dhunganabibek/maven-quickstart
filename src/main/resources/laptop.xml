@@ -5,7 +5,13 @@
 
     <bean id="laptop" class="com.bibekdhungana.Laptop">
         <property name="id" value="1" />
-        <property name="name" value="Apple"></property>
+        <property name="name" value="Apple" />
+        <property name="charger" ref="charger" />
+    </bean>
+
+    <bean id="charger" class="com.bibekdhungana.Charger">
+        <property name="id" value="1"></property>
+        <property name="name" value="apple-charger"></property>
     </bean>
 
 </beans>
